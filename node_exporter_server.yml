@@ -1,0 +1,15 @@
+- targets:
+      - 192.168.33.11:9100
+ labels:
+      cluster: DVR_History
+      dc: AE1_VA
+- targets:
+      - 192.168.33.12:9100
+ labels:
+      cluster: DVR_History
+      dc: AW2_OR
+- targets:
+      - 192.168.33.20:9100
+ labels:
+      cluster: DVR_History
+      dc: AO2_OH
